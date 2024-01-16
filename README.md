@@ -32,4 +32,4 @@ will also generate a line chart for your portfolio's daily returns. All data can
 further analysis.
 ![portfolio_risk_simulator](./readmefile/risk_model.png)
 ## How to Use
-👉 click [MRMST](https://mrmst.streamlit.app/) to launch the app!
+👉 click [MRMST]([https://mindinventory-financial-risk-model.streamlit.app/]) to launch the app!

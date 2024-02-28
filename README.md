@@ -32,5 +32,5 @@ will also generate a line chart for your portfolio's daily returns. All data can
 further analysis.
 ![portfolio_risk_simulator](./readmefile/risk_model.png)
 ## How to Use
-👉 <a href="http://https://mindinventory-financial-risk-model.streamlit.app/" target="_blank"> Click here </a>
- to Launch the app
+👉 <a href="https://mindinventory-financial-risk-model.streamlit.app/?embed_options=dark_theme" target="_blank"> Click here </a>
+to Launch the app
